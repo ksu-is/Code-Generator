@@ -219,5 +219,7 @@ This is free software: you may copy, modify, and/or distribute this work under t
 See the file ``LICENSE.BSD`` for details.
 
 Future improvements:
->- Improved program by adding an option to no longer require letter/ numbers for passcode input 
-- Machine Learning
+~~~~~~~~~~~~~~~~~~~~
+
+- Improved program by adding an option to no longer require letter/ numbers for passcode input.
+- Integrate machine learning to improve user's security realibility.

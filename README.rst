@@ -217,3 +217,7 @@ License
 =======
 This is free software: you may copy, modify, and/or distribute this work under the terms of the BSD 3-Clause license.
 See the file ``LICENSE.BSD`` for details.
+
+Future improvements:
+> - Improved program by adding an option to no longer require letter/ numbers for passcode input 
+- Machine Learning

@@ -112,7 +112,7 @@ def locate_wordfile(wordfile=None):
 
 def generate_wordlist(wordfile=None,
                       min_length=5,
-                      max_length=9,
+                      max_length=10,
                       valid_chars='.'):
     """
     Generate a word list from either a kwarg wordfile, or a system default

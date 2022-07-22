@@ -23,7 +23,7 @@ class XkcdPasswordTests(unittest.TestCase):
         self.wordlist_full = xkcd_password.generate_wordlist(
             wordfile=WORDFILE,
             min_length=5,
-            max_length=8,)
+            max_length=10,)
         self.wordlist_small = xkcd_password.generate_wordlist(
             wordfile='tests/test_list.txt',
             valid_chars='[a-z]')

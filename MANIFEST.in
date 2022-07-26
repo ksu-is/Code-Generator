@@ -1,5 +1,0 @@
-include xkcdpass/static/*
-include tests/*
-include examples/*
-include LICENSE.BSD
-include xkcdpass.1
